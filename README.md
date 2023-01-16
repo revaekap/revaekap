@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reva Eka Prasetyo</h1>
-<h3 align="center">I'm an final year Information System Students at Universitas Dinamika. A passionate frontend developer & UI/UX Designer or Product Designer</h3>
-
-- 🌱 I’m currently learning **Tailwind**
+<h3 align="center">I'm an Fresh Graduated From Universitas Dinamika. A passionate frontend developer & UI/UX Designer or Product Designer</h3>
 
 - 📫 How to reach me **revaekap06@gmail.com**
 
